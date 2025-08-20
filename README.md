@@ -23,7 +23,7 @@ MedBot is an AI chatbot that helps users **identify possible diseases** based on
 ---
 
 ## Project Structure
-
+```text
 MedBot/
 │
 ├── clean_code.py       # Core Python AI script
@@ -33,7 +33,6 @@ MedBot/
 ├── requirements.txt    # Python dependencies
 ├── README.md           # This file
 └── media/              # Uploads / user files
-
 
 ## Installation & Usage
 
